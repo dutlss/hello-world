@@ -1,2 +1,3 @@
 # hello-world
-start from now
+a students new to this platform
+hope to learn something
